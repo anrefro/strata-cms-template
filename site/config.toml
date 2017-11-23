@@ -54,10 +54,10 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
-			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "fulls/DanishStars.jpg"
+			thumb = "thumbs/DanishStar.jpg"
+			title = "Danish Star Workshop"
+			description = "Folding Danish Stars for Christmas"
 
 
 	[params.recentposts]
